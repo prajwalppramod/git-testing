@@ -1,0 +1,10 @@
+git init
+git add
+git commit -m
+git remote add origin repolink
+git push -n origin main/master
+
+git checkout -b development  - to create new branch and to switch to it 
+git push -u origin development -once we create new branch we need to push it into repository
+
+git branch -a -to show the branches
